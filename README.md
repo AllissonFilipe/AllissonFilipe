@@ -7,7 +7,7 @@ Atualmente estou atuando como **Desenvolvedor Front end** de aplicações web, c
    🌎 **"Sucesso é o resultado da prática constante de fundamentos e ações vencedoras. Não há nada de milagroso no processo, nem sorte envolvida. Amadores aspiram, Profissionais trabalham" - Bill Russel** 🧠
 
 
-- ⚡ Desenvolvedor Front End na Nava
+- ⚡ Desenvolvedor Front End na F1rst
 - 📫 Como **[entrar](mailto:allissonfiilipe@gmail.com)** em contato comigo **[allissonfiilipe@gmail.com](mailto:allissonfiilipe@gmail.com)**
 
 
