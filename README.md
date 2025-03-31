@@ -4,9 +4,6 @@
 
 Atualmente estou atuando como **Desenvolvedor Front end** de aplicações web, construindo produtos significativos que atendem o setor financeiro. Eu realmente gosto do que faço, e saber que o meu trabalho pode impactar de forma positiva a vida das pessoas me dá ainda mais motivação.
 
-   🌎 **"Sucesso é o resultado da prática constante de fundamentos e ações vencedoras. Não há nada de milagroso no processo, nem sorte envolvida. Amadores aspiram, Profissionais trabalham" - Bill Russel** 🧠
-
-
 - ⚡ Desenvolvedor Front End na F1rst
 - 📫 Como **[entrar](mailto:allissonfiilipe@gmail.com)** em contato comigo **[allissonfiilipe@gmail.com](mailto:allissonfiilipe@gmail.com)**
 
